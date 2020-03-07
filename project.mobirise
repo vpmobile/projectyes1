@@ -42,7 +42,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-5\">What&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header3-2\">How</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-1\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-5\">What&nbsp;</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header3-2\">Case Studies</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -124,7 +124,7 @@
             "overlayOpacity": 0.7
           },
           "title": "What We do.",
-          "caption": "<p>I find .</p>",
+          "caption": "<p>We discover and create new profit centers by &nbsp;using underutilized resources, assets, relationships, opportunities and set everything up so that it runs by itself. </p><p>We provide our clients with zero risk solutions with zero interference to their current business. </p><p>Our ventures span from technology, healthcare, AI, energy, space, defense and beyond.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -136,8 +136,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "How We Do It.",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "Case Studies",
+          "meta": "=",
           "alias": "purity/components",
           "_tags": [
             "Theme"
